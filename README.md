@@ -1,4 +1,4 @@
-![511634904-09b0bd62-aafa-4f36-b920-10742c2842a9](https://github.com/user-attachments/assets/7dc877e3-4646-468c-b3db-b4d060535f78)# LAB-5-Student-registration-system
+# LAB-5-Student-registration-system
 ## NAME   :Lokesh B
 ## REG NO :212224040172
 
